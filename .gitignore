@@ -1,0 +1,5 @@
+/venv
+/data/raw
+
+config.bat
+node_modules
